@@ -36,8 +36,10 @@ docker extension uninstall spurin/webden-extension:latest
 
 ## Container Sources for the Lab Images
 
-The Dockerfiles used for the creation of these lab images are available from the following (PR open to merge with https://github.com/chrisdiana/webden) -
+The Dockerfiles used for the creation of these lab images are available from the following  -
 
 * [spurin/webden](https://github.com/spurin/webden/tree/add_dockerfile) 
+
+[PR open](https://github.com/chrisdiana/webden/pull/10) to merge with https://github.com/chrisdiana/webden
 
 ---
