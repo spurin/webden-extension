@@ -1,0 +1,12 @@
+services:
+  webden:
+    hostname: webden
+    container_name: webden
+    volumes:
+     - webden:/home/webden
+    image: spurin/webden:latest
+    ports: 
+     - 34527:8080
+
+volumes:
+  webden:
