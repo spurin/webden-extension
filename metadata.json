@@ -5,7 +5,7 @@
   },
   "ui": {
     "dashboard-tab": {
-      "title": "Webden",
+      "title": "WebDen",
       "src": "index.html",
       "root": "ui"
     }

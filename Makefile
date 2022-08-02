@@ -1,4 +1,4 @@
-IMAGE?=spurin/diveintoansible-extension
+IMAGE?=spurin/webden-extension
 TAG?=latest
 
 BUILDER=buildx-multi-arch
